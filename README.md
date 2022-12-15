@@ -1,5 +1,3 @@
-
-
 # Mason sample blocks 
 
 This project contains all blocks that can be used in any project
