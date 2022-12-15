@@ -1,4 +1,4 @@
-# Mason sample blocks 
+# NonStop Mason blocks 
 
 This project contains all blocks that can be used in any project
 
