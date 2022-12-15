@@ -23,6 +23,14 @@ To add a code block, run the following command:
 
 ## bloc_test
 
+To add this block, run the following command:
+
+```bash
+  mason add bloc_test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/bloc_test
+  #or
+  mason add -g bloc_test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/bloc_test
+```
+
 To generate this block, run the following command:
 
 ```bash
@@ -93,6 +101,14 @@ void main() {
 
 ## test
 
+To add this block, run the following command:
+
+```bash
+  mason add test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/test
+  #or
+  mason add -g test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/test
+```
+
 To generate this block, run the following command:
 
 ```bash
@@ -114,6 +130,14 @@ void main() {
 ```
 
 ## widget
+
+To add this block, run the following command:
+
+```bash
+  mason add widget --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/widget
+  #or
+  mason add -g widget --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/widget
+```
 
 To generate this block, run the following command:
 
@@ -138,6 +162,14 @@ class SampleWidget extends StatelessWidget {
 ```
 
 ## widget_test
+
+To add this block, run the following command:
+
+```bash
+  mason add widget_test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/widget_test
+  #or
+  mason add -g widget_test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/widget_test
+```
 
 To generate this block, run the following command:
 

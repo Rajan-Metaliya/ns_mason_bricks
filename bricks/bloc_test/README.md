@@ -1,5 +1,13 @@
 # bloc_test
 
+To add this block, run the following command:
+
+```bash
+  mason add bloc_test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/bloc_test
+  #or
+  mason add -g bloc_test --git-url https://github.com/rajan-nonstopio/ns_mason_bricks --git-path bricks/bloc_test
+```
+
 To generate this block, run the following command:
 
 ```bash
